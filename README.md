@@ -1,5 +1,11 @@
 # git-introduction
 
+### Instructions:
+
+Fork and clone this repo.
+From your fork, provide answers to questions below.
+When you have answered all the questions, commit and push to your repository.
+
 1. Who is your favorite super hero?
 
 2. What is one interesting thing about you?
